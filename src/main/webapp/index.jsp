@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>project deployed to tomcat using command based</h2>
 </body>
 </html>
